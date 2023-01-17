@@ -1,5 +1,3 @@
-# moonWidget
-
-Privacy Policy
+# Privacy Policy
 
   This app doesn't collect any data from user.
